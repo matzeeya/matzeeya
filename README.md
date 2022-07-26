@@ -50,3 +50,9 @@
 
 \{ Have a good day.\} 
 
+ Header1 | Header2 | Header3
+-----| ----- | ----- |
+: col1 :|: col1 :|: col1 :|
+ col2 | col2 | col2 |
+ col3 :| col3 :| col3 :|
+
