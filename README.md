@@ -61,5 +61,6 @@ function HelloWorld(){
 console.log("Hello World");
 }
 ```
-[] one
+[ ] one
+
 [x] two
