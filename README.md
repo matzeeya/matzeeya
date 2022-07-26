@@ -61,5 +61,6 @@ function HelloWorld(){
 console.log("Hello World");
 }
 ```
-[ ] one
-[x] two
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
