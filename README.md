@@ -67,7 +67,7 @@ console.log("Hello World");
 
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Matzeeya …
+- 😄 My name is: Matzeeya
 - 🔭 I’m currently working on Faculty of Engineering in thailand.
 
 ## Developer Tech
