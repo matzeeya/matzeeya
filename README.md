@@ -41,3 +41,9 @@
 [Facebook](https://www.facebook.com/)
 
 > Hi! there, Nice to see u.
+
+\* Hi \*
+\\ Nice to see u \\
+\[ This is my site. \]
+\{ Have a good day.\} 
+
