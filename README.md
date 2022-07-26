@@ -67,9 +67,8 @@ console.log("Hello World");
 
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname …
-- ⚡ Student id: ...
-- 🔭 I’m currently studying on Faculty of Engineering.
+- 😄 My name is: Matzeeya …
+- 🔭 I’m currently working on Faculty of Engineering in thailand.
 
 ## Developer Tech
 
